@@ -2,7 +2,7 @@
 
 Submitted by: **Alan Wang**
 
-This web app: **insert description**
+This web app: **Food Fourm**
 
 Time spent: **10** hours spent in total
 
